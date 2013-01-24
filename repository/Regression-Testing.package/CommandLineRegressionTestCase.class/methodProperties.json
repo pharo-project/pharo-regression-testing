@@ -3,9 +3,13 @@
 		"isAbstract" : "CamilloBruni 1/24/2013 23:05" },
 	"instance" : {
 		"backupNewTemporaryImage" : "CamilloBruni 1/24/2013 23:30",
-		"runCommandLine:" : "CamilloBruni 1/25/2013 00:38",
+		"basicRunCommandLine:" : "CamilloBruni 1/25/2013 00:46",
+		"headless" : "",
+		"runCommandLine:" : "CamilloBruni 1/25/2013 00:40",
+		"runCommandLine:withTimeOut:" : "CamilloBruni 1/25/2013 00:44",
 		"setUp" : "CamilloBruni 1/24/2013 23:28",
 		"tearDown" : "CamilloBruni 1/24/2013 23:26",
 		"tempBashFile" : "CamilloBruni 1/25/2013 00:29",
 		"tempStdErrFile" : "CamilloBruni 1/25/2013 00:29",
-		"tempStdOutFile" : "CamilloBruni 1/25/2013 00:29" } }
+		"tempStdOutFile" : "CamilloBruni 1/25/2013 00:29",
+		"vmArguments" : "CamilloBruni 1/25/2013 00:48" } }
