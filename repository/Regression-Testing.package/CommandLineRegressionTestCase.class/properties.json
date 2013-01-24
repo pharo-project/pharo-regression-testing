@@ -7,8 +7,8 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "RegressionTestCase",
+	"name" : "CommandLineRegressionTestCase",
 	"pools" : [
 		 ],
-	"super" : "UITestCase",
+	"super" : "RegressionTestCase",
 	"type" : "normal" }
