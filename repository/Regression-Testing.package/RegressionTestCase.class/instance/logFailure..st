@@ -1,3 +1,3 @@
-as yet unclassified
+running
 logFailure: aString
 	Smalltalk exitFailure.

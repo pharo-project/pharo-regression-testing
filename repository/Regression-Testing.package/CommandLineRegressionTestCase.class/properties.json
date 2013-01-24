@@ -10,5 +10,5 @@
 	"name" : "CommandLineRegressionTestCase",
 	"pools" : [
 		 ],
-	"super" : "RegressionTestCase",
+	"super" : "AbstractImageLaunchingTestCase",
 	"type" : "normal" }

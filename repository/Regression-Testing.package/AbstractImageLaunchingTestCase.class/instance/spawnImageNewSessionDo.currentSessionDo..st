@@ -1,6 +1,6 @@
 running
 spawnImageNewSessionDo: newSessionBlock  currentSessionDo: currentSessionBlock
 	
-	self backupNewTestImage
+	self backupNewTemporaryImage
 		ifTrue: newSessionBlock 
 		ifFalse: currentSessionBlock

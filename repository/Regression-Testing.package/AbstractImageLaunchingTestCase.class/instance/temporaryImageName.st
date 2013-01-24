@@ -1,3 +1,3 @@
 running
-testImageName
+temporaryImageName
 	^ self class name, '_', self selector.

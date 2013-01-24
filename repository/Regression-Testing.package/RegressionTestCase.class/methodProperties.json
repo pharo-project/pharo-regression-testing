@@ -1,14 +1,8 @@
 {
 	"class" : {
-		 },
+		"isAbstract" : "CamilloBruni 1/24/2013 23:06" },
 	"instance" : {
-		"backupNewTestImage" : "CamilloBruni 1/24/2013 22:08",
-		"deleteTestImage" : "CamilloBruni 1/24/2013 22:10",
-		"logFailure:" : "CamilloBruni 1/24/2013 22:34",
-		"runCase" : "CamilloBruni 1/24/2013 22:03",
-		"runMainCase" : "CamilloBruni 1/24/2013 22:36",
-		"spawnImageNewSessionDo:currentSessionDo:" : "CamilloBruni 1/24/2013 21:30",
-		"tearDown" : "CamilloBruni 1/24/2013 22:17",
-		"testImageCommand" : "CamilloBruni 1/24/2013 22:15",
-		"testImageFile" : "CamilloBruni 1/24/2013 22:15",
-		"testImageName" : "CamilloBruni 1/24/2013 21:32" } }
+		"logFailure:" : "CamilloBruni 1/24/2013 22:58",
+		"runCase" : "CamilloBruni 1/24/2013 22:57",
+		"runMainCase" : "CamilloBruni 1/24/2013 22:59",
+		"tearDown" : "CamilloBruni 1/24/2013 22:58" } }

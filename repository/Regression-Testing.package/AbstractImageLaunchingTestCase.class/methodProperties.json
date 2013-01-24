@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "CamilloBruni 1/24/2013 22:57" },
+	"instance" : {
+		"backupNewTemporaryImage" : "CamilloBruni 1/24/2013 22:59",
+		"deleteTemporaryImage" : "CamilloBruni 1/24/2013 22:59",
+		"spawnImageNewSessionDo:currentSessionDo:" : "CamilloBruni 1/24/2013 22:59",
+		"temporaryImageCommand" : "CamilloBruni 1/24/2013 22:58",
+		"temporaryImageFile" : "CamilloBruni 1/24/2013 22:58",
+		"temporaryImageName" : "CamilloBruni 1/24/2013 22:58" } }

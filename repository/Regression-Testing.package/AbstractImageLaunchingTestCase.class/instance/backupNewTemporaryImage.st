@@ -1,7 +1,7 @@
 running
-backupNewTestImage
+backupNewTemporaryImage
 	| oldImageName newImageName |
-	self deleteTestImage.
-	newImageName := self testImageName.
+	self deleteTemporaryImage.
+	newImageName := self temporaryImageName.
 	oldImageName := Smalltalk shortImageName.
 	^ Smalltalk backupTo: newImageName
