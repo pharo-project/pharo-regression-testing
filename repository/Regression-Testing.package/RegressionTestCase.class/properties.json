@@ -1,0 +1,14 @@
+{
+	"category" : "Regression-Testing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RegressionTestCase",
+	"pools" : [
+		 ],
+	"super" : "UITestCase",
+	"type" : "normal" }
