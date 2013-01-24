@@ -2,7 +2,7 @@ tests
 testSaveAs
 	| newImageFile newChangesFile |
 	
-	self runCommandLine: 'saveAs _test.image'.
+	self runCommandLine: #('save' '_test.image').
 	
 	newImageFile := '_test.image' asFileReference exists.
 	self assert: newImageFile exists.
