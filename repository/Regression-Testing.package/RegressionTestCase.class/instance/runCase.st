@@ -1,3 +1,6 @@
 running
 runCase
-	self notYetImplemented
+	self 
+		spawnImageNewSessionDo: [ super runCase ] 
+		currentSessionDo: [ 
+			self runMainCase ]
