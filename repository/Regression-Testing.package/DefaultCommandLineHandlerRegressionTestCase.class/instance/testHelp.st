@@ -1,3 +1,3 @@
 tests
 testHelp
-	self runCommandLine: '--help'
+	self runCommandLine: { '--help' }

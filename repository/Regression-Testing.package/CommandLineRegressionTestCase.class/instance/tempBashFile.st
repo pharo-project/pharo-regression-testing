@@ -1,3 +1,3 @@
 running
 tempBashFile
-	^ self selector asFileReference  , 'sh'
+	^ self filePrefix asFileReference  , 'sh'

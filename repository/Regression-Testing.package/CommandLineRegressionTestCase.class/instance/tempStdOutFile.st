@@ -1,3 +1,3 @@
 running
 tempStdOutFile
-	^ (self selector, '_stdout') asFileReference  , 'txt'
+	^ (self filePrefix, '_stdout') asFileReference  , 'txt'

@@ -1,3 +1,3 @@
 running
 tempStdErrFile
-	^ (self selector, '_stderr') asFileReference  , 'txt'
+	^ (self filePrefix, '_stderr') asFileReference  , 'txt'

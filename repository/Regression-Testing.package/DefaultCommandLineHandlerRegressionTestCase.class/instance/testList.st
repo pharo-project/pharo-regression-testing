@@ -1,3 +1,3 @@
 tests
 testList
-	self runCommandLine: '--list'
+	self runCommandLine: { '--list' }
