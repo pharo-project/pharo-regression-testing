@@ -2,8 +2,10 @@
 	"class" : {
 		"isAbstract" : "CamilloBruni 1/24/2013 23:05" },
 	"instance" : {
-		"runCase" : "CamilloBruni 1/24/2013 22:52",
-		"runCommandLine:" : "CamilloBruni 1/24/2013 23:04",
-		"setUp" : "CamilloBruni 1/24/2013 22:59",
-		"tearDown" : "CamilloBruni 1/24/2013 23:05",
+		"backupNewTemporaryImage" : "CamilloBruni 1/24/2013 23:30",
+		"runCommandLine:" : "CamilloBruni 1/25/2013 00:12",
+		"setUp" : "CamilloBruni 1/24/2013 23:28",
+		"tearDown" : "CamilloBruni 1/24/2013 23:26",
+		"tempBashFile" : "CamilloBruni 1/25/2013 00:10",
+		"tempStdErrFile" : "CamilloBruni 1/24/2013 23:22",
 		"tempStdOutFile" : "CamilloBruni 1/24/2013 23:05" } }
