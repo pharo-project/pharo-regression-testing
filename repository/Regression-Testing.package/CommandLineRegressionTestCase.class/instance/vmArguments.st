@@ -1,4 +1,4 @@
-running
+accessing
 vmArguments
 	" return the default arguments for the VM "
 	^ Array streamContents: [ :s|
