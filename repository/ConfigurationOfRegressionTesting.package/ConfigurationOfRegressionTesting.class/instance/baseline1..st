@@ -13,8 +13,7 @@ baseline1: spec
 		spec project: 'OSProcess' with: [
 			 spec
 				className: 'ConfigurationOfOSProcess';
-				version: #stable;
-				loads: 'Core';
+				version: #development;
 				repository: 'http://www.squeaksource.com/MetacelloRepository' ].
 		spec 
 			group: 'default' with: #('Regression-Testing'). ].
