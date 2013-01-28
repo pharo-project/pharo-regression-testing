@@ -8,8 +8,11 @@ baseline1: spec
 		
 		spec 
 			package: 'Regression-Testing' with: [ 
-				spec requires: #( OSProcess )].
+				spec requires: #( 'OSProcess' 'FileSystem-Legacy' )].
 			
+		spec package: 'FileSystem-Legacy' with: [
+			spec repository: 'http://www.smalltalkhub.com/mc/dh83/fisleg/main/' ].
+		
 		spec project: 'OSProcess' with: [
 			 spec
 				className: 'ConfigurationOfOSProcess';
