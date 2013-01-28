@@ -1,3 +1,3 @@
 accessing
 tempBashFile
-	^ self filePrefix asFileReference  , 'sh'
+	^ self tempFile  , 'sh'

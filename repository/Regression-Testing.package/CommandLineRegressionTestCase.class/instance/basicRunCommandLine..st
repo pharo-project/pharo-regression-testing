@@ -22,5 +22,4 @@ basicRunCommandLine: arguments
 	
 	self assert: process succeeded description: 'Failed Command:  ', self tempBashFile basename.
 	
-	self tempStdOutFile readStreamDo: [ :stream|
-		^ stream contents trimmed ]
+	^ self stdOutContents

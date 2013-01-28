@@ -1,0 +1,14 @@
+{
+	"category" : "Regression-Testing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PrintVersionCommandLineHandlerRegressionTestCase",
+	"pools" : [
+		 ],
+	"super" : "CommandLineRegressionTestCase",
+	"type" : "normal" }
