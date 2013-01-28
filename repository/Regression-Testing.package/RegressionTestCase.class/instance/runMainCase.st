@@ -6,4 +6,4 @@ runMainCase
 	self deleteTemporaryImage.
 	result succeeded 
 		ifFalse: [ 
-			self defaultTestFailure signal: 'Test failed' ]
+			self defaultTestFailure signal: 'Test failed, image was terminated with signal ', result exitStatus asString ]
