@@ -1,2 +1,4 @@
 running
 tearDown
+
+	self deleteTemporaryFiles

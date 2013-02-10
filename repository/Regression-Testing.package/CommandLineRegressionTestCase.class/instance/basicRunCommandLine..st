@@ -6,7 +6,11 @@ basicRunCommandLine: arguments
 	self assert: arguments isArray description: 'Arguments has to be an Array'.
 	
 	stdOut := self tempStdOutFile ensureDeleted writeStream.
+	self assert: self tempStdOutFile exists.
+	
 	stdErr := self tempStdErrFile ensureDeleted writeStream.
+	self assert: self tempStdErrFile exists.
+	
 	delay := Delay forMilliseconds: 50.
 		
 	process := UnixProcess
@@ -21,6 +25,5 @@ basicRunCommandLine: arguments
 	stdErr close.
 	
 	self assert: process succeeded description: 'Failed Command:  ', self tempBashFile basename.
-	self deleteTemporaryFiles.
 	
 	^ self stdOutContents
