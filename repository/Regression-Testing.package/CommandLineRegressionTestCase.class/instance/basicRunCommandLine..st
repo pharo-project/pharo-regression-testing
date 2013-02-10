@@ -10,7 +10,7 @@ basicRunCommandLine: arguments
 	delay := Delay forMilliseconds: 50.
 		
 	process := UnixProcess
-				forkJob: Smalltalk vm command
+				forkJob: Smalltalk vm fileName
 				arguments: self vmArguments, arguments
 				environment: nil
 				descriptors: (Array with: nil with: stdOut with: stdErr).
