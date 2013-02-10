@@ -11,4 +11,4 @@ version10: spec
 	spec for: #common do: [
 		spec
 			package: 'FileSystem-Legacy' with: 'FileSystem-Legacy-CamilloBruni.1';
-		  	package: 'Regression-Testing' with: 'Regression-Testing-CamilloBruni.20' ].
+		  	package: 'Regression-Testing' with: 'Regression-Testing-CamilloBruni.21' ].
