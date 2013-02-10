@@ -21,5 +21,6 @@ basicRunCommandLine: arguments
 	stdErr close.
 	
 	self assert: process succeeded description: 'Failed Command:  ', self tempBashFile basename.
+	self deleteTemporaryFiles.
 	
 	^ self stdOutContents
