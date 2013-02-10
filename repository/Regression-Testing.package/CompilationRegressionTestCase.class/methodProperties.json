@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAddInstanceVariableAPI" : "CamilloBruni 1/27/2013 21:23",
+		"testAddInstanceVariableAPI" : "CamilloBruni 2/10/2013 15:31",
 		"testAddInstanceVariableIndirect" : "CamilloBruni 1/27/2013 21:23",
 		"testBasicCompileMethodOnObject" : "CamilloBruni 1/24/2013 21:59",
 		"testRecompileAll" : "CamilloBruni 1/27/2013 21:12" } }
