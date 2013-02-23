@@ -3,4 +3,7 @@
 		 },
 	"instance" : {
 		"commandLineHandlerClass" : "CamilloBruni 1/25/2013 01:14",
-		"testList" : "CamilloBruni 1/25/2013 00:30" } }
+		"testCopyright" : "CamilloBruni 2/23/2013 14:02",
+		"testHelp" : "CamilloBruni 2/23/2013 13:59",
+		"testList" : "CamilloBruni 1/25/2013 00:30",
+		"testVersion" : "CamilloBruni 2/23/2013 14:03" } }
