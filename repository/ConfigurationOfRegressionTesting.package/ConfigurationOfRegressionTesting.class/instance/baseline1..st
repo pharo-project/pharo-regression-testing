@@ -11,7 +11,7 @@ baseline1: spec
 				spec requires: #( 'OSProcess' 'FileSystem-Legacy' )].
 			
 		spec package: 'FileSystem-Legacy' with: [
-			spec repository: 'http://www.smalltalkhub.com/mc/dh83/fisleg/main/' ].
+			spec repository: 'http://www.smalltalkhub.com/mc/PharoExtras/FileSystemLegacy/main/' ].
 		
 		spec project: 'OSProcess' with: [
 			 spec
