@@ -10,7 +10,6 @@ basicRunCommandLine: arguments
 	
 	stdErr := self tempStdErrFile ensureDeleted writeStream.
 	self assert: self tempStdErrFile exists.
-	
 	delay := Delay forMilliseconds: 50.
 		
 	process := UnixProcess
@@ -24,6 +23,6 @@ basicRunCommandLine: arguments
 	stdOut close.
 	stdErr close.
 	
-	self assert: process succeeded description: 'Failed Command:  ', self tempBashFile basename.
+	self assert: process succeeded description: [ 'Failed Command:  ',  (self vmArguments , arguments) asString ].
 	
 	^ self stdOutContents
