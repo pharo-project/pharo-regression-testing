@@ -1,10 +1,10 @@
 version
-version10: spec
-	<version: '1.0' imports: #('1-baseline')>
+version20: spec
+	<version: '2.0' imports: #('1-baseline')>
 	
 	spec for: #common do: [
-		spec blessing: #development.
-		spec description: 'Initial release'.
+		spec blessing: #stable.
+		spec description: '2.0 stable'.
 		spec author: 'CamilloBruni'.
 		spec timestamp: '1/25/2013 11:27' ].
 	
