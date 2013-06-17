@@ -1,4 +1,4 @@
 running
 deleteTemporaryImage
-	(self temporaryImageName asFileReference, Smalltalk imageSuffix) ensureDeleted.
-	(self temporaryImageName asFileReference, Smalltalk changesSuffix) ensureDeleted.	
+	(self temporaryImageName asFileReference, Smalltalk imageSuffix) ensureDelete.
+	(self temporaryImageName asFileReference, Smalltalk changesSuffix) ensureDelete.	

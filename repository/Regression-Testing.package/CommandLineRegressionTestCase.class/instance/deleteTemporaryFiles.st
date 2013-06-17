@@ -1,6 +1,6 @@
 running
 deleteTemporaryFiles
 	self deleteTemporaryImage.
-	self tempBashFile delete.
-	self tempStdErrFile delete.
-	self tempStdOutFile delete.
+	self tempBashFile ensureDelete.
+	self tempStdErrFile ensureDelete.
+	self tempStdOutFile ensureDelete.
