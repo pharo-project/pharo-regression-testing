@@ -13,5 +13,5 @@ testSaveAs
 	self assert: newChangesFile exists.
 	self assert: newChangesFile isFile.
 	
-	newImageFile ensureDeleted.
-	newChangesFile ensureDeleted.
+	newImageFile ensureDelete.
+	newChangesFile ensureDelete.

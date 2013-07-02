@@ -1,6 +1,6 @@
 running
 setUp
 	self deleteTemporaryImage.
-	self tempStdOutFile ensureDeleted.
-	self tempStdErrFile ensureDeleted.
+	self tempStdOutFile ensureDelete.
+	self tempStdErrFile ensureDelete.
 	self backupNewTemporaryImage.
