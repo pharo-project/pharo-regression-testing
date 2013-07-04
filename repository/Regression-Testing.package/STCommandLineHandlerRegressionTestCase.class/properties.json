@@ -7,7 +7,7 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "BasicCodeLoaderCommandLineHandlerRegressionTestCase",
+	"name" : "STCommandLineHandlerRegressionTestCase",
 	"pools" : [
 		 ],
 	"super" : "CommandLineRegressionTestCase",

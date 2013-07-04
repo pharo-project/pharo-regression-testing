@@ -1,3 +1,3 @@
 requirements
 commandLineHandlerClass
-	^ BasicCodeLoader 
+	^ STCommandLineHandler 
