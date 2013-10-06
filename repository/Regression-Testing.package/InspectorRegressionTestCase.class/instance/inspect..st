@@ -1,6 +1,6 @@
 helper
 inspect: anObject
 	|inspector|
-	inspector := anObject inspect.
+	inspector := anObject inspector.
 	World doOneCycle. 
 	inspector close 

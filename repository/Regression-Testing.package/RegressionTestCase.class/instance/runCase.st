@@ -1,3 +1,3 @@
 running
 runCase
-	^ ImageWorker evaluate: [ super runCase ]
+	^ ImageWorker do: [ FileStream stderr nextPutAll: 'running case'; lf. super runCase ]
