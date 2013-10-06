@@ -1,1 +1,0 @@
-A collection of regressions tests for the command line interface of Pharo.image. I provide a simple interface to launch a copy of this image in a new VM and capture the results.

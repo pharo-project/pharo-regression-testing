@@ -1,3 +1,0 @@
-running
-temporaryImageName
-	^ self filePrefix
