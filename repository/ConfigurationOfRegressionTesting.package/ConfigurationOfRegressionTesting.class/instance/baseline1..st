@@ -11,6 +11,6 @@ baseline1: spec
 				spec requires: #( 'OSProcess' 'ImageWorker' )].
 		self 
 			osProcess: spec;
-			imageWorkder: spec.
+			imageWorker: spec.
 		spec 
 			group: 'default' with: #('Regression-Testing'). ].
