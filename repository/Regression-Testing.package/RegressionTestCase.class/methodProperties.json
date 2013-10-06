@@ -2,9 +2,7 @@
 	"class" : {
 		"isAbstract" : "CamilloBruni 1/24/2013 23:06" },
 	"instance" : {
-		"handleTestError:" : "CamilloBruni 2/10/2013 15:34",
 		"logFailure:" : "CamilloBruni 1/24/2013 22:58",
-		"runCase" : "CamilloBruni 2/10/2013 15:33",
-		"runMainCase" : "CamilloBruni 2/10/2013 18:03",
+		"runCase" : "CamilloBruni 10/6/2013 21:06",
 		"skip:" : "CamilloBruni 2/10/2013 18:17",
 		"tearDown" : "CamilloBruni 1/24/2013 22:58" } }
