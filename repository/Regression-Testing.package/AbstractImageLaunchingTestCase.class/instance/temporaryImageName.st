@@ -1,0 +1,3 @@
+running
+temporaryImageName
+	^ self filePrefix

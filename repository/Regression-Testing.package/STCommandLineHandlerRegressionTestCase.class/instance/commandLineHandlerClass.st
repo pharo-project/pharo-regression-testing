@@ -1,0 +1,3 @@
+requirements
+commandLineHandlerClass
+	^ STCommandLineHandler 

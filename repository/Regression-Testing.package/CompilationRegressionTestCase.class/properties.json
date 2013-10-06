@@ -1,0 +1,14 @@
+{
+	"category" : "Regression-Testing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CompilationRegressionTestCase",
+	"pools" : [
+		 ],
+	"super" : "RegressionTestCase",
+	"type" : "normal" }

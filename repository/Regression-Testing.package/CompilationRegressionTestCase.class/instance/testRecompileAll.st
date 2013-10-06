@@ -1,0 +1,3 @@
+tests
+testRecompileAll
+	Compiler recompileAll

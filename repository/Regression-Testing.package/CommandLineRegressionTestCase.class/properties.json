@@ -1,0 +1,14 @@
+{
+	"category" : "Regression-Testing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CommandLineRegressionTestCase",
+	"pools" : [
+		 ],
+	"super" : "AbstractImageLaunchingTestCase",
+	"type" : "normal" }
