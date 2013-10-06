@@ -8,15 +8,9 @@ baseline1: spec
 		
 		spec 
 			package: 'Regression-Testing' with: [ 
-				spec requires: #( 'OSProcess' 'FileSystem-Legacy' )].
-			
-		spec package: 'FileSystem-Legacy' with: [
-			spec repository: 'http://www.smalltalkhub.com/mc/PharoExtras/FileSystemLegacy/main/' ].
-		
-		spec project: 'OSProcess' with: [
-			 spec
-				className: 'ConfigurationOfOSProcess';
-				version: #'stable';
-				repository: 'http://www.squeaksource.com/MetacelloRepository'].
+				spec requires: #( 'OSProcess' 'ImageWorker' )].
+		self 
+			osProcess: spec;
+			imageWorkder: spec.
 		spec 
 			group: 'default' with: #('Regression-Testing'). ].
