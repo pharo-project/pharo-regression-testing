@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfRegressionTesting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfRegressionTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
