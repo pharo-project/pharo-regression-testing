@@ -10,4 +10,4 @@ version30: spec
 	
 	spec for: #common do: [
 		spec
-		  	package: 'Regression-Testing' with: 'Regression-Testing-CamilloBruni.32' ].
+		  	package: 'Regression-Testing' with: 'Regression-Testing-CamilloBruni.34' ].
